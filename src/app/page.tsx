@@ -75,11 +75,11 @@ export default function LandingPage() {
       useInvertedBackground={true}
       features={[
         {
-          title: "University Placement",          description: "Customized guidance to match your academic profile with elite European institutions.",          imageSrc: "http://img.b2bpic.net/free-photo/minimalist-illustration-monument_23-2151902644.jpg?_wi=1",          titleIconSrc: "http://img.b2bpic.net/free-photo/minimalist-illustration-monument_23-2151902644.jpg",          buttonText: "Explore"},
+          title: "University Placement",          description: "Customized guidance to match your academic profile with elite European institutions.",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C9C4Q08C8xD7UAbWKXOEVzQwpC/uploaded-1775789344555-icvduoa7.jpg",          titleIconSrc: "http://img.b2bpic.net/free-photo/minimalist-illustration-monument_23-2151902644.jpg",          buttonText: "Explore"},
         {
-          title: "Visa & Application",          description: "Seamless handling of visa applications and documentation to ensure 100% compliance.",          imageSrc: "http://img.b2bpic.net/free-photo/visa-application-form-smartphone_23-2149117803.jpg?_wi=1",          titleIconSrc: "http://img.b2bpic.net/free-photo/visa-application-form-smartphone_23-2149117803.jpg",          buttonText: "Learn More"},
+          title: "Visa & Application",          description: "Seamless handling of visa applications and documentation to ensure 100% compliance.",          imageSrc: "http://img.b2bpic.net/free-photo/american-visa-document_1101-820.jpg?id=1055378",          titleIconSrc: "http://img.b2bpic.net/free-photo/visa-application-form-smartphone_23-2149117803.jpg",          buttonText: "Learn More"},
         {
-          title: "Arrival & Settlement",          description: "Post-arrival support, housing assistance, and local orientation to get you settled quickly.",          imageSrc: "http://img.b2bpic.net/free-photo/paper-style-isolation-still-life-composition_23-2148998852.jpg",          titleIconSrc: "http://img.b2bpic.net/free-photo/paper-style-isolation-still-life-composition_23-2148998852.jpg",          buttonText: "Read More"},
+          title: "Arrival & Settlement",          description: "Post-arrival support, housing assistance, and local orientation to get you settled quickly.",          imageSrc: "http://img.b2bpic.net/free-photo/american-visa-document_1101-820.jpg?id=1055378",          titleIconSrc: "http://img.b2bpic.net/free-photo/american-visa-document_1101-820.jpg?id=1055378",          buttonText: "Read More"},
       ]}
       title="Your Full-Cycle Support Partner"
       description="We remove the friction from studying abroad, providing specialized assistance for every phase of your journey."
@@ -111,7 +111,7 @@ export default function LandingPage() {
         {
           id: "4",          name: "David Kim",          date: "Apr 2024",          title: "International Student",          quote: "Their visa guidance was impeccable. I didn't have to stress about a single document. Highly recommended.",          tag: "Visa",          avatarSrc: "http://img.b2bpic.net/free-photo/good-humored-woman-sits-outside_197531-24317.jpg",          imageSrc: "http://img.b2bpic.net/free-photo/minimalist-illustration-monument_23-2151902644.jpg?_wi=2",          imageAlt: "university application icon minimalist"},
         {
-          id: "5",          name: "Anna Petrova",          date: "May 2024",          title: "University Graduate",          quote: "The post-arrival orientation was a game changer. I felt at home from the very first week.",          tag: "Arrival",          avatarSrc: "http://img.b2bpic.net/free-photo/beautiful-graduate-girl-graduation-robe-shows-ok-sign-smiling-camera_496169-1324.jpg",          imageSrc: "http://img.b2bpic.net/free-photo/visa-application-form-smartphone_23-2149117803.jpg?_wi=2",          imageAlt: "visa document icon flat style"},
+          id: "5",          name: "th ",          date: "May 2024",          title: "University Graduate",          quote: "The post-arrival orientation was a game changer. I felt at home from the very first week.",          tag: "Arrival",          avatarSrc: "http://img.b2bpic.net/free-photo/beautiful-graduate-girl-graduation-robe-shows-ok-sign-smiling-camera_496169-1324.jpg",          imageSrc: "http://img.b2bpic.net/free-photo/visa-application-form-smartphone_23-2149117803.jpg?_wi=2",          imageAlt: "visa document icon flat style"},
       ]}
       title="Voices of Success"
       description="See what our students and parents have to say about their journey abroad."
