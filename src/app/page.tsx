@@ -11,6 +11,8 @@ import SocialProofOne from '@/components/sections/socialProof/SocialProofOne';
 import TestimonialCardFive from '@/components/sections/testimonial/TestimonialCardFive';
 import TextSplitAbout from '@/components/sections/about/TextSplitAbout';
 
+const INSTAGRAM_URL = "https://www.instagram.com/global.studyhub?igsh=MXZmZTIyY2ViZ3owcQ%3D%3D&utm_source=qr";
+
 export default function LandingPage() {
   return (
     <ThemeProvider
@@ -40,7 +42,7 @@ export default function LandingPage() {
       ]}
       brandName="Global Study Hub"
       button={{
-        text: "Start Your Journey",        href: "#contact"}}
+        text: "Start Your Journey",        href: INSTAGRAM_URL}}
     />
   </div>
 
@@ -51,7 +53,7 @@ export default function LandingPage() {
       imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C9C4Q08C8xD7UAbWKXOEVzQwpC/uploaded-1775823695960-v76o60l0.png"
       buttons={[
         {
-          text: "Start Your Journey",          href: "#contact"},
+          text: "Start Your Journey",          href: INSTAGRAM_URL},
       ]}
       mediaAnimation="opacity"
       background={{ variant: "plain" }}
@@ -75,11 +77,11 @@ export default function LandingPage() {
       useInvertedBackground={true}
       features={[
         {
-          title: "Guaranteed University Acceptance",          description: "Customized guidance to match your academic profile with elite global institutions.",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C9C4Q08C8xD7UAbWKXOEVzQwpC/uploaded-1775789344555-icvduoa7.jpg",          titleIconSrc: "http://img.b2bpic.net/free-photo/minimalist-illustration-monument_23-2151902644.jpg",          buttonText: "Explore"},
+          title: "Guaranteed University Acceptance",          description: "Customized guidance to match your academic profile with elite global institutions.",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C9C4Q08C8xD7UAbWKXOEVzQwpC/uploaded-1775789344555-icvduoa7.jpg",          titleIconSrc: "http://img.b2bpic.net/free-photo/minimalist-illustration-monument_23-2151902644.jpg",          buttonText: "Explore",          buttonHref: INSTAGRAM_URL},
         {
-          title: "Fast-Track Visa Processing",          description: "Seamless handling of visa applications and documentation to ensure 100% compliance.",          imageSrc: "http://img.b2bpic.net/premium-photo/us-visa-stamp-travel-passport-united-states-america-immigrant-work-travel-documents_1046681-1808.jpg?id=135777599",          titleIconSrc: "http://img.b2bpic.net/free-photo/visa-application-form-smartphone_23-2149117803.jpg",          buttonText: "Learn More"},
+          title: "Fast-Track Visa Processing",          description: "Seamless handling of visa applications and documentation to ensure 100% compliance.",          imageSrc: "http://img.b2bpic.net/premium-photo/us-visa-stamp-travel-passport-united-states-america-immigrant-work-travel-documents_1046681-1808.jpg?id=135777599",          titleIconSrc: "http://img.b2bpic.net/free-photo/visa-application-form-smartphone_23-2149117803.jpg",          buttonText: "Learn More",          buttonHref: INSTAGRAM_URL},
         {
-          title: "Stress-Free Arrival Support",          description: "Post-arrival support, housing assistance, and local orientation to get you settled quickly.",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C9C4Q08C8xD7UAbWKXOEVzQwpC/uploaded-1775789344555-qswhpu3u.jpg?_wi=2",          titleIconSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C9C4Q08C8xD7UAbWKXOEVzQwpC/uploaded-1775789344555-qswhpu3u.jpg",          buttonText: "Read More"},
+          title: "Stress-Free Arrival Support",          description: "Post-arrival support, housing assistance, and local orientation to get you settled quickly.",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C9C4Q08C8xD7UAbWKXOEVzQwpC/uploaded-1775789344555-qswhpu3u.jpg?_wi=2",          titleIconSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C9C4Q08C8xD7UAbWKXOEVzQwpC/uploaded-1775789344555-qswhpu3u.jpg",          buttonText: "Read More",          buttonHref: INSTAGRAM_URL},
       ]}
       title="Your Full-Cycle Support Partner"
       description="We remove the friction from studying abroad, providing specialized assistance for every phase of your journey."
@@ -120,7 +122,7 @@ export default function LandingPage() {
       text="Ready to launch your future abroad? Start your journey today with our dedicated support team."
       buttons={[
         {
-          text: "Start Your Journey",          href: "#"},
+          text: "Start Your Journey",          href: INSTAGRAM_URL},
       ]}
     />
   </div>
