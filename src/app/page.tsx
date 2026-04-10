@@ -66,27 +66,27 @@ export default function LandingPage() {
       ]}
       slides={[
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/studio-background-concept-abstract-empty-light-gradient-purple-studio-room-background-product_1258-66833.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/studio-background-concept-abstract-empty-light-gradient-purple-studio-room-background-product_1258-66833.jpg?_wi=1",
           imageAlt: "Aspirational Europe City",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/studio-background-concept-abstract-empty-light-gradient-purple-studio-room-background-product_1258-66833.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/studio-background-concept-abstract-empty-light-gradient-purple-studio-room-background-product_1258-66833.jpg?_wi=2",
           imageAlt: "Aspirational Europe City",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/studio-background-concept-abstract-empty-light-gradient-purple-studio-room-background-product_1258-66833.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/studio-background-concept-abstract-empty-light-gradient-purple-studio-room-background-product_1258-66833.jpg?_wi=3",
           imageAlt: "Aspirational Europe City",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/studio-background-concept-abstract-empty-light-gradient-purple-studio-room-background-product_1258-66833.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/studio-background-concept-abstract-empty-light-gradient-purple-studio-room-background-product_1258-66833.jpg?_wi=4",
           imageAlt: "Aspirational Europe City",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/studio-background-concept-abstract-empty-light-gradient-purple-studio-room-background-product_1258-66833.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/studio-background-concept-abstract-empty-light-gradient-purple-studio-room-background-product_1258-66833.jpg?_wi=5",
           imageAlt: "Aspirational Europe City",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/studio-background-concept-abstract-empty-light-gradient-purple-studio-room-background-product_1258-66833.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/studio-background-concept-abstract-empty-light-gradient-purple-studio-room-background-product_1258-66833.jpg?_wi=6",
           imageAlt: "Aspirational Europe City",
         },
       ]}
@@ -115,14 +115,14 @@ export default function LandingPage() {
         {
           title: "University Placement",
           description: "Customized guidance to match your academic profile with elite European institutions.",
-          imageSrc: "http://img.b2bpic.net/free-photo/minimalist-illustration-monument_23-2151902644.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/minimalist-illustration-monument_23-2151902644.jpg?_wi=1",
           titleIconSrc: "http://img.b2bpic.net/free-photo/minimalist-illustration-monument_23-2151902644.jpg",
           buttonText: "Explore",
         },
         {
           title: "Visa & Application",
           description: "Seamless handling of visa applications and documentation to ensure 100% compliance.",
-          imageSrc: "http://img.b2bpic.net/free-photo/visa-application-form-smartphone_23-2149117803.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/visa-application-form-smartphone_23-2149117803.jpg?_wi=1",
           titleIconSrc: "http://img.b2bpic.net/free-photo/visa-application-form-smartphone_23-2149117803.jpg",
           buttonText: "Learn More",
         },
@@ -181,7 +181,7 @@ export default function LandingPage() {
           quote: "As a parent, I was worried about my child moving abroad. Global Study Hub gave us peace of mind and full support.",
           tag: "Parent",
           avatarSrc: "http://img.b2bpic.net/free-photo/happy-father-hugging-his-son_23-2147562065.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/studio-background-concept-abstract-empty-light-gradient-purple-studio-room-background-product_1258-66833.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/studio-background-concept-abstract-empty-light-gradient-purple-studio-room-background-product_1258-66833.jpg?_wi=7",
           imageAlt: "abstract purple gradient background",
         },
         {
@@ -203,7 +203,7 @@ export default function LandingPage() {
           quote: "Their visa guidance was impeccable. I didn't have to stress about a single document. Highly recommended.",
           tag: "Visa",
           avatarSrc: "http://img.b2bpic.net/free-photo/good-humored-woman-sits-outside_197531-24317.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/minimalist-illustration-monument_23-2151902644.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/minimalist-illustration-monument_23-2151902644.jpg?_wi=2",
           imageAlt: "university application icon minimalist",
         },
         {
@@ -214,7 +214,7 @@ export default function LandingPage() {
           quote: "The post-arrival orientation was a game changer. I felt at home from the very first week.",
           tag: "Arrival",
           avatarSrc: "http://img.b2bpic.net/free-photo/beautiful-graduate-girl-graduation-robe-shows-ok-sign-smiling-camera_496169-1324.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/visa-application-form-smartphone_23-2149117803.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/visa-application-form-smartphone_23-2149117803.jpg?_wi=2",
           imageAlt: "visa document icon flat style",
         },
       ]}
