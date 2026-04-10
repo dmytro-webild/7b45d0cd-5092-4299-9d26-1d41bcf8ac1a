@@ -12,6 +12,7 @@ import TestimonialCardFive from '@/components/sections/testimonial/TestimonialCa
 import TextSplitAbout from '@/components/sections/about/TextSplitAbout';
 
 const INSTAGRAM_URL = "https://www.instagram.com/global.studyhub?igsh=MXZmZTIyY2ViZ3owcQ%3D%3D&utm_source=qr";
+const WHATSAPP_URL = "https://wa.me/yournumber";
 
 export default function LandingPage() {
   return (
@@ -112,6 +113,9 @@ export default function LandingPage() {
       ]}
       title="Voices of Success"
       description="See what our students have to say about their journey to studying all over the world."
+      buttons={[
+        { text: "CONTACT THEM!!", href: WHATSAPP_URL }
+      ]}
     />
   </div>
 
