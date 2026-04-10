@@ -48,7 +48,7 @@ export default function LandingPage() {
       <HeroSplit
       title="Where Your Future Begins Abroad"
       description="Your dream of studying all over the world starts here. From application to arrival and beyond, we guide you every step, so you can focus on succeeding."
-      imageSrc="http://img.b2bpic.net/free-photo/studio-background-concept-abstract-empty-light-gradient-purple-studio-room-background-product_1258-66833.jpg?_wi=1"
+      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C9C4Q08C8xD7UAbWKXOEVzQwpC/uploaded-1775823695960-v76o60l0.png"
       buttons={[
         {
           text: "Start Your Journey",          href: "#contact"},
