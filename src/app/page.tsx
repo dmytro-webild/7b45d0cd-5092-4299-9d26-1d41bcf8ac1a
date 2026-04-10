@@ -41,7 +41,6 @@ export default function LandingPage() {
         {
           name: "Testimonials",          id: "testimonials"},
       ]}
-      logoSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C9C4Q08C8xD7UAbWKXOEVzQwpC/uploaded-1775824763081-yvfppipa.png"
       brandName="Global Study Hub"
       button={{
         text: "Start Your Journey",        href: INSTAGRAM_URL}}
@@ -156,7 +155,6 @@ export default function LandingPage() {
           ],
         },
       ]}
-      logoSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C9C4Q08C8xD7UAbWKXOEVzQwpC/uploaded-1775824763081-yvfppipa.png"
       logoText="Global Study Hub"
       copyrightText="© 2025 Global Study Hub. All rights reserved."
     />
